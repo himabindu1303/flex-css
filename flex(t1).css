@@ -1,0 +1,64 @@
+.maindiv{
+    background-color: purple;
+    width: 60vw;
+    height: 90vh;
+           
+}
+.p1,h1{
+    color: white;
+    text-align: center;
+    transform: translateY(30px);
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.div11,.div12,.div13{
+    background-color: white;
+    width: 15rem;
+    height: 50vh;
+    border-radius: 5px;
+    margin: 10px;            
+    margin-top: 60px;
+}
+.div11{
+    margin-top: 130px;
+}
+.div12{
+    margin-top: 90px;
+    height: 55vh ;
+}
+.div13{
+    margin-top: 130px;
+}
+.span1{
+    background-color: lightcoral;
+    color: blue;
+    font-size: 30px;
+}
+.span2{
+    font-size: 30px;
+    font-weight: 900;
+    color: red;
+}
+.emoj{
+    font-size: 20px;
+}
+.p3{
+    color: green;
+    font-size: 20px;
+}
+p,span{
+    color: blueviolet;
+}
+.p4{
+    text-decoration: underline blueviolet;
+    font-weight: 900;
+}
+.start{
+   background-color: blueviolet;
+   color: white;
+   padding: 10px 20px;
+   
+}   

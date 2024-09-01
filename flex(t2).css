@@ -1,0 +1,30 @@
+.p1, .p2{
+    display: inline-block;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.p2{
+    float: right;
+    margin-right: 20px;
+}
+.parent{ 
+    background-color: rgb(201, 230, 248);           
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px;
+}
+.child{           
+    width: 350px;
+    height: 200px;
+    align-content: center;
+}
+img{
+    border-radius: 50%;
+    float: left;
+}
+p,h2{
+    translate: 10px 10px;
+}
